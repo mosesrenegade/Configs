@@ -18,8 +18,8 @@ border_inner_margin	1
 border_outer_margin	1
 
 # — SIZE — #
-#minimum_size		130
-#maximum_width		130
+minimum_size		130
+maximum_width		150
 
 # — ALIGNMENT — #
 alignment		bl
